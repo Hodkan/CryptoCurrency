@@ -1,9 +1,4 @@
-/*  Student Name: ALi ALbayrak
-    Studen ID: 19978497
-    DSA Assignment 1
-*/
-/* I used this class on my previous submitted work on week 6 practical.
-   I used that work as foundation and edited this class for the DSA Assignment*/
+
 import java.util.*;
 import java.io.Serializable;
 
